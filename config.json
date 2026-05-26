@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuelete",
+        "uuid": 1282400,
+        "checksum": "fk3red"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
